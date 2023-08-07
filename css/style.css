@@ -764,8 +764,9 @@ div {
     border: 1px solid var(--bg-black-50);
     padding: 10px 25px;
     font-size: 16px;
-    color: var(--text-black-700);
+    color: var(--bg-black-900);
     transition: all 0.3s ease;
+    font-weight: 700;
 }
 
 .contact .contact-form .form-item .form-control:focus {
