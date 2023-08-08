@@ -35,11 +35,6 @@ body {
     box-sizing: border-box;
 }
 
-        /* Optionally, hide tooltips only for specific elements with class "btn" */
-        .btn[title] {
-            pointer-events: none;
-        }
-
 ::before,::after {
     box-sizing: border-box;
 }
