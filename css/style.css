@@ -34,10 +34,6 @@ body {
     text-decoration: none;
     box-sizing: border-box;
 }
-        /* Hide tooltips for all elements */
-        [title] {
-            pointer-events: none;
-        }
 
         /* Optionally, hide tooltips only for specific elements with class "btn" */
         .btn[title] {
