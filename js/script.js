@@ -1,3 +1,14 @@
+// Change Heading: Script
+
+var typed = new Typed(".typing", {
+  strings: ["Web Designer", "Web Developer", "Digital Marketer", "Freelancer"],
+  typeSpeed: 100,
+  backSpeed: 60,
+  loop: true
+});
+
+// ASIDE
+
 const nav = document.querySelector(".nav"),
   navList = nav.querySelectorAll("li"),
   totalNavList = navList.length,
