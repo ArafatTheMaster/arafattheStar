@@ -764,7 +764,7 @@ div {
     border: 1px solid var(--bg-black-50);
     padding: 10px 25px;
     font-size: 16px;
-    color: var(--bg-black-900);
+    color: var(--skin-color);
     transition: all 0.3s ease;
     font-weight: 700;
 }
@@ -775,6 +775,7 @@ div {
 
 .contact .contact-form .form-item textarea.form-control {
     height: 140px;
+    color: var(--skin-color);
 }
 
 .contact .contact-form .btn {
